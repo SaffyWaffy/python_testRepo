@@ -34,5 +34,8 @@ def menu():
             add_entry()
         elif choice == "3":
             break
+        else: 
+            print("helaas is dat niet een van de nummers.")
+            
 
 menu()
